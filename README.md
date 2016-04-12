@@ -1,5 +1,5 @@
 # UVliPiD
-UVliPiD  - A neutral loss calculator to assist with characterization of Lipid A molecules with 193 nm UVPD.  This software package is meant to supplement the following publication:
+UVliPiD  - A neutral loss calculator to assist with characterization of Lipid A molecules via 193 nm UVPD.  This software package is meant to supplement the following publication:
 
 Title: "UVliPiD: A UVPD-based hierarchical approach for de novo characterization of lipid A structures"
 
