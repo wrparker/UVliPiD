@@ -263,9 +263,9 @@ namespace LipidDeNovo
                    FragmentIons_a2.Add(J);
                }
 
-               //Y1 time:
+               //Y1 Analysis:
                //Step 1: Does there exist two ions < 200 m/z from the y1? Look for doublet within 300
-               //Exclusively Alpha and epsilon positions for y1!!
+               //Exclusively Alpha and epsilon positions for y1
                Console.WriteLine(":::Reducing Sugar:::");
                status_report.addStatusM = ":::Reducing Sugar:::";
                int counter = 0;
