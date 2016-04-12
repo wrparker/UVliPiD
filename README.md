@@ -9,9 +9,6 @@ Please send all bug reports or correspondence regarding this software to wrparke
 
 **Current Release: v1.00**
 
-####Licensing
-This software is licensed under the Apache License 2.0.  The licensing details can be viewed in the LICENSE.md file located here: https://github.com/wrparker/UVliPiD/blob/master/LICENSE.md
-
 ####Requirements
 * .NET framework version 4.5.1 or higher
 * 32 or 64 bit operating system
