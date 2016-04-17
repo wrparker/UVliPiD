@@ -18,5 +18,5 @@ Please send all bug reports or correspondence regarding this software to wrparke
 The stand-alone executeable can be downloaded from the release located here: https://github.com/wrparker/UVliPiD/releases/tag/1.00
 
 ####Compiling from source
-This prject was written in C# and can be compiled from source by cloning the repository and opening the solution in Microsoft Visual Studio 2013.
+This project was written in C# and can be compiled from source by cloning the repository and opening the solution in Microsoft Visual Studio 2013.
 
